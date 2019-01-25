@@ -16,5 +16,6 @@ npm install --save-dev prettier prettier-config-bitworkers
 Then you can source the config from your own `prettier.config.js`.
 
 ```js
+// prettier.config.js
 module.exports = require('prettier-config-bitworkers')
 ```
