@@ -9,15 +9,15 @@
 
 # Prettier Config Bitworkers
 
-## Installation
+## Usage
 
-```bash
+Install the config by running:
+
+```sh
 npm install --save-dev prettier prettier-config-bitworkers
 ```
 
-Then you can source the config from your own `prettier.config.js`.
-
+Then require the config inside your `prettier.config.js`:
 ```js
-// prettier.config.js
 module.exports = require('prettier-config-bitworkers')
 ```
