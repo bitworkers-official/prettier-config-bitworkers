@@ -6,7 +6,7 @@
 
 # Prettier Config Bitworkers
 
-## Quickstart 🚀
+## Installation
 
 ```bash
 npm install --save-dev prettier prettier-config-bitworkers
