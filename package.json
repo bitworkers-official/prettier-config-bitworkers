@@ -4,7 +4,6 @@
   "description": "Prettier configuration for Bitworkers",
   "main": "prettier.config.js",
   "keywords": [
-    "prettier",
     "prettier-config"
   ],
   "author": "Simon Siefke <simon.siefke@gmail.com>",
