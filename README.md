@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/@twostoryrobot/prettier-config.svg)](https://www.npmjs.com/package/@twostoryrobot/prettier-config)
+[![npm](https://img.shields.io/npm/v/prettier-config-bitworkers.svg)](https://www.npmjs.com/package/prettier-config-bitworkers)
 
 # Prettier Config Bitworkers
 
