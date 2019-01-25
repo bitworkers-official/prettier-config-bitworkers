@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/prettier-config-bitworkers.svg)](https://www.npmjs.com/package/prettier-config-bitworkers)
+[![npm](https://img.shields.io/npm/v/prettier-config-bitworkers.svg)](https://www.npmjs.com/package/prettier-config-bitworkers) [![Greenkeeper badge](https://badges.greenkeeper.io/bitworkers-official/prettier-config-bitworkers.svg)](https://greenkeeper.io/)
 
 # Prettier Config Bitworkers
 
