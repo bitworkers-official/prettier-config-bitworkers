@@ -1,0 +1,15 @@
+{
+  "name": "prettier-config-bitworkers",
+  "version": "0.0.1",
+  "description": "Prettier configuration for Bitworkers",
+  "main": "prettier.config.js",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Simon Siefke <simon.siefke@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^1.16.1"
+  }
+}
