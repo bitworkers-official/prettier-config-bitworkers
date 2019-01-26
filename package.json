@@ -2,7 +2,7 @@
   "name": "prettier-config-bitworkers",
   "version": "0.0.0-semantically-released",
   "description": "Prettier configuration for Bitworkers",
-  "main": "prettier.config.js",
+  "main": "index.js",
   "keywords": [
     "prettier-config"
   ],
