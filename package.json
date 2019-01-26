@@ -3,6 +3,9 @@
   "version": "0.0.0-semantically-released",
   "description": "Prettier configuration for Bitworkers",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "prettier-config"
   ],
