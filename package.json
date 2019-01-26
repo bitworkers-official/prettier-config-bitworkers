@@ -6,7 +6,7 @@
   "keywords": [
     "prettier-config"
   ],
-  "author": "Simon Siefke <simon.siefke@gmail.com>",
+  "author": "Bitworkers",
   "license": "MIT",
   "peerDependencies": {
     "prettier": "^1.16.1"
