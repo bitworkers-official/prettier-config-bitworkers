@@ -6,7 +6,7 @@
 
 # prettier-config-bitworkers
 
-Prettier configuration for Bitworkers... Feel free to use this!
+> Prettier configuration for Bitworkers... Feel free to use this!
 
 ## Usage
 
