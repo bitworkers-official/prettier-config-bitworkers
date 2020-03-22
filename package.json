@@ -12,7 +12,7 @@
   "author": "Bitworkers",
   "license": "MIT",
   "peerDependencies": {
-    "prettier": "^1.17.1"
+    "prettier": "^2.0.0"
   },
   "repository": {
     "type": "git",
